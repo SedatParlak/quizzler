@@ -1,3 +1,3 @@
 # quizzler
 
-A simple quiz game right wrong. In tihs app I used Tkinter module, OOP and API. 
+A simple quiz game true false. In tihs app I used Tkinter module, OOP and API. 
